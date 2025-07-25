@@ -1,11 +1,9 @@
-Welcome to your new dbt project!
+# Market Data Analysis Project
 
-### Using the starter project
+Project details: https://drive.google.com/file/d/1v2SiAv5tmMY3MUC-rMWMRPOKT6xsaOIa/view?usp=sharing
 
-Try running the following commands:
+### Run the models using:
 - dbt run
-- dbt test
-
 
 ### Resources:
 - Learn more about dbt [in the docs](https://docs.getdbt.com/docs/introduction)
