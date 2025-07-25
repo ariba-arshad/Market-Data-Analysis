@@ -1,0 +1,10 @@
+version: 2
+
+sources:
+  - name: facebook_ads
+    database: postgres
+    schema: facebooks_ads
+    tables:
+      - name: basic_ad
+      - name: basic_ad_set
+      - name: ad_history
